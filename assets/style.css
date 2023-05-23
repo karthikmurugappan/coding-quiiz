@@ -1,0 +1,32 @@
+#first-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#start-button {
+    cursor: pointer;
+    background-color: #026663;
+    color: white;
+    font-size: 25px;
+    width: 250px;
+    height: 75px;
+    border-radius: 25px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 25px;    
+}
+
+#seconds {
+    display: flex;
+    justify-content: center;
+    background-color: #026663;
+    font-size: 30px;
+    width: 100%;
+    float: right;
+    border: 3px solid burlywood;
+    border-radius: 10px;
+    margin: 8px;
+}
+
